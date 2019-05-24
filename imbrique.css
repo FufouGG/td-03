@@ -1,0 +1,38 @@
+table{
+    text-align: center;
+    border:1px solid;
+    border-collapse: collapse;  
+}
+
+
+.listemenu li{
+    text-decoration: none;
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px dotted black;
+    border-radius: 5px;
+}
+
+.listemenu li a{
+    text-decoration: none;
+}
+
+.listemenu li:hover{
+    background-color: cornflowerblue;
+}
+
+.table2{
+    border: 10px dashed black;
+}
+.table2 td{
+    border: solid red;
+}
+
+.fondExo6{
+    background-color: #5e5757;
+}
+
+.imgexo6{
+    
+}
